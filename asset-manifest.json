@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kimtan/static/css/main.b489cd44.css",
+    "main.js": "/kimtan/static/js/main.5c596cd5.js",
+    "static/js/787.f23a1283.chunk.js": "/kimtan/static/js/787.f23a1283.chunk.js",
+    "static/media/gif.gif": "/kimtan/static/media/gif.0ca41b31ee4c58b94c54.gif",
+    "index.html": "/kimtan/index.html",
+    "main.b489cd44.css.map": "/kimtan/static/css/main.b489cd44.css.map",
+    "main.5c596cd5.js.map": "/kimtan/static/js/main.5c596cd5.js.map",
+    "787.f23a1283.chunk.js.map": "/kimtan/static/js/787.f23a1283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b489cd44.css",
+    "static/js/main.5c596cd5.js"
+  ]
+}
